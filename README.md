@@ -1,0 +1,2 @@
+# FoodCategory
+Using CoreData
