@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  FoodCategoryList
+
+  Created by jaydip jadav on 11/12/24.
+  
+*/
+"Langauge List" = "भाषा सूची";
+"Food Category" = "खाद्य श्रेणी";
+"vegetables" = "सब्ज़ियाँ";
+"fruits" = "फल";
+"meat" = "मांस";
+"fish" = "मछली";
+"grains" = "अनाज";
+"canned" = "डिब्बाबंद";
+"freezer" = "फ्रीजर";
+"beverage" = "पेय";
+"dary" = "स्नैक";
+"snack" = "नाश्ता";
+"others" = "अन्य";
+"Sort by" = "क्रमबद्ध";
+"Order by" = "द्वारा आदेश";
+"Search for food category" = "भोजन श्रेणी खोजें";
+"Setting" = "सेटिंग";
+"Home" = "घर";
+"App Language" = "ऐप भाषा";
+"Theme color" = "थीम रंग";
+"Name" = "नाम";
+"Amount" = "मात्रा";
+"Category" = "वर्ग";
+"Purchase Date" = "खरीद की तारीख";
+"Expire Date" = "समाप्त होने की तिथि";
+"Save Category" = "श्रेणी सहेजें";
+"Enter Name" = "नाम दर्ज करें";
+"Enter Amount" = "मात्रा दर्ज करें";
+"Please enter category name." = "कृपया श्रेणी का नाम दर्ज करें.";
+"Please enter category quntity." = "कृपया श्रेणी मात्रा दर्ज करें.";
+"Ok" = "ठीक है";
+"Food Category List" = "खाद्य श्रेणी सूची";
+"Hindi" = "हिन्दी";
+"Delete Category" = "श्रेणी हटाएँ";
+
+
+
+
+
+
+
+
+
+
